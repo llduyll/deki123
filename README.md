@@ -1,3 +1,2 @@
-# Instagram-Accounts-Checker
-
-Usage: php check.php targets.txt
+# deki123
+zz
